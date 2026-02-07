@@ -1,0 +1,16 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+
+# Intermediate/generated caches
+artifacts/intermediate/*.npy
+
+# Optional audio renders
+artifacts/music/*.wav
